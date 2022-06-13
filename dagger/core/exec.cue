@@ -1,6 +1,6 @@
 package core
 
-import "dagger.io/dagger"
+import "github.com/mlkmhd/dagger.io/dagger"
 
 // Execute a command in a container
 #Exec: {

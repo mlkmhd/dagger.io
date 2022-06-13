@@ -2,7 +2,7 @@ package core
 
 import (
 	"list"
-	"dagger.io/dagger"
+	"github.com/mlkmhd/dagger.io/dagger"
 )
 
 // A ref is an address for a remote container image

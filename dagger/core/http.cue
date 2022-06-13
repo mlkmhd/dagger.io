@@ -16,7 +16,7 @@ package core
 // func Chown(uid, gid int) HTTPOption
 // func Filename(name string) HTTPOption
 
-import "dagger.io/dagger"
+import "github.com/mlkmhd/dagger.io/dagger"
 
 // Fetch a file over HTTP
 #HTTPFetch: {

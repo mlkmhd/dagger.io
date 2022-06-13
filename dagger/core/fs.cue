@@ -1,6 +1,6 @@
 package core
 
-import "dagger.io/dagger"
+import "github.com/mlkmhd/dagger.io/dagger"
 
 // Access the source directory for the current CUE package
 // This may safely be called from any package
