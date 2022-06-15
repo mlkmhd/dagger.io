@@ -28,5 +28,5 @@ import "github.com/mlkmhd/dagger.io/dagger"
 	} | {
 		authHeader: dagger.#Secret
 	}
-	output: dagger.#FS
+	output: dagger.#FS @dagger(generated)
 }
